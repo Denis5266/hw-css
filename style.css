@@ -1,0 +1,39 @@
+* {
+    background-color: aquamarine;
+}
+
+h1 {
+    color: yellow;
+}
+
+.class_sel {
+    color: blue;
+}
+
+#id_class {
+    color: brown;
+}
+
+.nested_sel span {
+    color: orange;
+}
+
+.first , .second {
+    color: blueviolet;
+}
+
+.text {
+    color: green;
+}
+
+.descr {
+    color: violet;
+}
+
+.item {
+    color:lightcoral;
+}
+
+.content {
+    color: goldenrod;
+}
